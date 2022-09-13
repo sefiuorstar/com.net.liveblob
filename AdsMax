@@ -1,0 +1,13 @@
+{
+   "AdsController":{
+      "BannerAd":"true",
+      "BannerKey":"bca5db61a7150efe",
+      "InterstitialAd":"true",
+      "InterstitialKey":"9b2e7268393cc0b2",
+      "InterstitialClick":"3",
+      "RewardAd":"true",
+      "RewardKey":"94ea2fe2e1b435d8",
+      "NativeAd":"true",
+      "NativePlace":"9"
+   }
+}
